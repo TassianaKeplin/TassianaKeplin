@@ -1,3 +1,2 @@
-Software Engineering student focused on backend development.
-Working with Django, APIs and system integrations.
-Always improving architecture and problem-solving skills.
+Software Engineering student with hands-on experience in full-stack development.
+Building web applications with Django, REST APIs and modern frontend technologies.
